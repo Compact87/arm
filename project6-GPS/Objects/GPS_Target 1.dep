@@ -1,0 +1,9 @@
+Dependencies for Project 'GPS', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x559D2F20)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 528"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\GPS.c)(0x5D092252)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="528"-o .\objects\gps.o --omf_browse .\objects\gps.crf --depend .\objects\gps.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc213x.h)(0x559D2F68)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBCE42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEBCE42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5CEBCE42)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5CEBCE3E)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBCE42)
